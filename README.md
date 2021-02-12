@@ -1,1 +1,1 @@
-# shot
+# shot.github.io
